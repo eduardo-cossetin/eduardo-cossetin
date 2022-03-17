@@ -5,7 +5,7 @@
 
 - 🔭 Nome: Eduardo Luiz Cossetin
 - 🤔 Hobbies: Pedalar, correr, viajar de moto e acampar.
-- 🎓 Formação: Engenheiro mecânico e studante de Web Full-stack Developer pela GrowDev.
+- 🎓 Formação: Engenheiro mecânico e estudante de Web Full-stack Developer pela GrowDev.
 - 💼 Experiências profissionais: Primata Tecnologia Eletrônica, Inviolável, IBGE.
 - 🌱 Linguagem de programação favorita: Javascript.
 - ✍️ No momento estou estudando front-end: HTML
