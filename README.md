@@ -1,5 +1,6 @@
-<h2> Bem-vindo!  <img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="75"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2><img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="50"> Bem-vindo! <img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="50"></h2>
+ 
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a1f9cb3c83926849b832c84998c40b603fb1a32e&rid=giphy.gif&ct=g" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
